@@ -10,7 +10,7 @@ NUMBER OF PROCESSORS:	4
 COHERENCE PROTOCOL:	MSI
 TRACE FILE:		traces/canneal.04t.debug
 ============ Simulation results (Cache 0) ============
-01. number of reads: 				2339
+01. number of reads: 				1339
 02. number of read misses: 			231
 03. number of writes: 				269
 04. number of write misses:			3
