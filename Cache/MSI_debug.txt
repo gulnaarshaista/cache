@@ -3,57 +3,57 @@ Ashitha Velayudhan
 avelayu
 Section ECE/CSC001
 ===== 506 SMP Simulator configuration =====
-L1_SIZE:		8192
-L1_ASSOC:		8
-L1_BLOCKSIZE:		64
-NUMBER OF PROCESSORS:	4
+L1_SIZE:		9182
+L1_ASSOC:		9
+L1_BLOCKSIZE:		74
+NUMBER OF PROCESSORS:	5
 COHERENCE PROTOCOL:	MSI
 TRACE FILE:		traces/canneal.04t.debug
 ============ Simulation results (Cache 0) ============
-01. number of reads: 				1339
-02. number of read misses: 			231
-03. number of writes: 				269
-04. number of write misses:			3
-05. total miss rate: 				8.97%
-06. number of writebacks: 			5
+01. number of reads: 				2469
+02. number of read misses: 			253
+03. number of writes: 				257
+04. number of write misses:			4
+05. total miss rate: 				7.77%
+06. number of writebacks: 			6
 07. number of cache-to-cache transfers: 	0
-08. number of memory transactions: 		257
+08. number of memory transactions: 		234
 09. number of interventions: 			0
-10. number of invalidations: 			34
+10. number of invalidations: 			44
 11. number of flushes: 				0
 ============ Simulation results (Cache 1) ============
-01. number of reads: 				2341
-02. number of read misses: 			228
-03. number of writes: 				229
+01. number of reads: 				2761
+02. number of read misses: 			268
+03. number of writes: 				239
 04. number of write misses:			2
-05. total miss rate: 				8.95%
-06. number of writebacks: 			8
+05. total miss rate: 				7.35%
+06. number of writebacks: 			7
 07. number of cache-to-cache transfers: 	0
-08. number of memory transactions: 		262
+08. number of memory transactions: 		222
 09. number of interventions: 			0
-10. number of invalidations: 			34
+10. number of invalidations: 			64
 11. number of flushes: 				0
 ============ Simulation results (Cache 2) ============
-01. number of reads: 				2396
-02. number of read misses: 			215
-03. number of writes: 				253
+01. number of reads: 				2793
+02. number of read misses: 			265
+03. number of writes: 				243
 04. number of write misses:			2
-05. total miss rate: 				8.19%
-06. number of writebacks: 			5
+05. total miss rate: 				7.19%
+06. number of writebacks: 			3
 07. number of cache-to-cache transfers: 	0
-08. number of memory transactions: 		242
+08. number of memory transactions: 		281
 09. number of interventions: 			0
-10. number of invalidations: 			35
+10. number of invalidations: 			55
 11. number of flushes: 				0
 ============ Simulation results (Cache 3) ============
-01. number of reads: 				1969
-02. number of read misses: 			232
-03. number of writes: 				204
+01. number of reads: 				1095
+02. number of read misses: 			212
+03. number of writes: 				212
 04. number of write misses:			0
-05. total miss rate: 				10.68%
-06. number of writebacks: 			10
+05. total miss rate: 				9.98%
+06. number of writebacks: 			9
 07. number of cache-to-cache transfers: 	0
-08. number of memory transactions: 		269
+08. number of memory transactions: 		266
 09. number of interventions: 			0
-10. number of invalidations: 			32
+10. number of invalidations: 			35
 11. number of flushes: 				0
